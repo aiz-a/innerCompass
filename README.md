@@ -14,13 +14,10 @@ Inner Compass is an AI-powered mental health journaling app designed to provide 
 ## 🚀 Future Development  
 This project is actively being developed into a **full-fledged mobile app**, integrating AI-powered analysis, a better UI, and additional features. Stay tuned!  
 
-## 🖼️ Screenshots  
+## 🖼️ Screenshot
 
 ![Screenshot 1](images/i1.png)  
-![Screenshot 2](images/i2.png)  
-![Screenshot 3](images/i3.png)  
-![Screenshot 4](images/i4.png)  
-![Screenshot 5](images/i5.png)  
+  
 
 
 ## 🤝 Contribution  
