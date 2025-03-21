@@ -16,7 +16,7 @@ This project is actively being developed into a **full-fledged mobile app**, int
 
 ## 🖼️ Screenshot
 
-![Screenshot 1](images/i1.png)  
+![Screenshot 1](images/i1.PNG)  
   
 
 
